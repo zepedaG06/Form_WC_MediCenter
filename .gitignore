@@ -1,0 +1,9 @@
+# Archivos y carpetas que NO deben subirse al repo
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.db
