@@ -1,0 +1,1392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\onedrive\\desktop\\medicenter_wc_version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\gestorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\gestorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\decisionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\decisionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\sistema1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\sistema1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formregistropersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistropersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formloginpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formloginpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formregistrarpersonaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistrarpersonaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formactualizardatos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formactualizardatos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formactualizardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formactualizardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formregistrarpersonaladmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistrarpersonaladmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formregistrarpersonaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistrarpersonaladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formregistropersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistropersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formmispacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmispacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formvalidardiagnosticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formvalidardiagnosticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formvalidardiagnosticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formvalidardiagnosticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formvalidardiagnosticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formvalidardiagnosticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formseleccionarhospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formseleccionarhospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formregistrosmedicoshospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistrosmedicoshospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formregistrosmedicoshospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistrosmedicoshospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formregistrosmedicoshospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistrosmedicoshospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formregistropersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistropersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formmispacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmispacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formmispacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmispacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formmenupaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenupaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formmenumedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenumedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formloginpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formloginpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formdiagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formdiagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formgestionpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formgestionpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formhistorialpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formhistorialpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formingresarsintomas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formingresarsintomas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formgestionpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formgestionpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formgestionpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formgestionpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formcompararhospitales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcompararhospitales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formcolapacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcolapacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formcambiarpasswordpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcambiarpasswordpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formcambiarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcambiarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formatenderpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formatenderpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formatenderpaciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formatenderpaciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formatenderpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formatenderpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formatenderpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formatenderpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formactualizardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formactualizardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formingresarsintomas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formingresarsintomas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formingresarsintomas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formingresarsintomas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formingresarsintomas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formingresarsintomas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formseleccionarhospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formseleccionarhospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formseleccionarhospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formseleccionarhospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formmenupaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenupaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formmenupaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenupaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formmenumedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenumedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formmenumedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenumedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formcambiarpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcambiarpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formcambiarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcambiarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formcambiarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcambiarpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formcambiarpasswordpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcambiarpasswordpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formcambiarpasswordpersonal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcambiarpasswordpersonal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formcambiarpasswordpersonal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcambiarpasswordpersonal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formcambiarpasswordpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcambiarpasswordpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formcolapacientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcolapacientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formvalidardiagnosticos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formvalidardiagnosticos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formseleccionarhospital.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formseleccionarhospital.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formregistrosmedicoshospital.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistrosmedicoshospital.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formregistropersonal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formregistropersonal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formmispacientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmispacientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formmenupaciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenupaciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formmenumedico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenumedico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formloginpersonal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formloginpersonal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formmenuadministrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formmenuadministrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formloginpaciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formloginpaciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formhistorialpaciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formhistorialpaciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formgestionpersonal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formgestionpersonal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formdiagnostico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formdiagnostico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|c:\\users\\casa\\source\\repos\\wc_medicenter\\wc_medicenter\\formcompararhospitales.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcompararhospitales.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formcolapacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DF4121B-7711-16D4-411A-9DB0B588CBFF}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcolapacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formcolapacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formcolapacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\wc_medicenter\\formactualizardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F6C93CB-F601-4AA5-8B66-8667999E87F7}|WC_MediCenter\\WC_MediCenter.csproj|solutionrelative:wc_medicenter\\formactualizardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\Paciente.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\Paciente.cs",
+              "RelativeToolTip": "WC_MediCenter\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:49:55.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\Hospital.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\Hospital.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\Hospital.cs",
+              "RelativeToolTip": "WC_MediCenter\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:49:51.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediCenter_WC_version.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\OneDrive\\Desktop\\MediCenter_WC_version.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\MediCenter_WC_version.cs",
+              "ToolTip": "C:\\Users\\Casa\\OneDrive\\Desktop\\MediCenter_WC_version.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\MediCenter_WC_version.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:49:40.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestorArchivos.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\GestorArchivos.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\GestorArchivos.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\GestorArchivos.cs",
+              "RelativeToolTip": "WC_MediCenter\\GestorArchivos.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:49:18.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMenuAdministrador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuAdministrador.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuAdministrador.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuAdministrador.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuAdministrador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:57:44.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\Program.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\Program.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\Program.cs",
+              "RelativeToolTip": "WC_MediCenter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:15:17.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormRegistrarPersonalAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrarPersonalAdmin.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistrarPersonalAdmin.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrarPersonalAdmin.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistrarPersonalAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAB1wAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:07:23.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\Menu.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\Menu.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\Menu.cs",
+              "RelativeToolTip": "WC_MediCenter\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:15:08.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sistema1.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\Sistema1.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\Sistema1.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\Sistema1.cs",
+              "RelativeToolTip": "WC_MediCenter\\Sistema1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwGIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:15:45.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMenuAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuAdministrador.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuAdministrador.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuAdministrador.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuAdministrador.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:32:20.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLoginPersonal.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormLoginPersonal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormLoginPersonal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormLoginPersonal.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormLoginPersonal.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAH0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:31:36.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DecisionNode.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\DecisionNode.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\DecisionNode.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\DecisionNode.cs",
+              "RelativeToolTip": "WC_MediCenter\\DecisionNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:40:31.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormActualizarDatos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormActualizarDatos.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormActualizarDatos.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormActualizarDatos.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormActualizarDatos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:56:37.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormRegistroPersonal.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistroPersonal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistroPersonal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistroPersonal.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistroPersonal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:36:44.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormActualizarDatos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormActualizarDatos.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormActualizarDatos.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormActualizarDatos.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormActualizarDatos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:59:21.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormRegistrarPersonalAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrarPersonalAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistrarPersonalAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrarPersonalAdmin.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistrarPersonalAdmin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:07:36.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormRegistrarPersonalAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrarPersonalAdmin.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistrarPersonalAdmin.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrarPersonalAdmin.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistrarPersonalAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:07:14.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormValidarDiagnosticos.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormValidarDiagnosticos.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormValidarDiagnosticos.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormValidarDiagnosticos.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormValidarDiagnosticos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:37:37.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormValidarDiagnosticos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormValidarDiagnosticos.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormValidarDiagnosticos.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormValidarDiagnosticos.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormValidarDiagnosticos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:37:32.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormSeleccionarHospital.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormSeleccionarHospital.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormSeleccionarHospital.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormSeleccionarHospital.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormSeleccionarHospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:23:58.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormMisPacientes.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMisPacientes.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMisPacientes.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMisPacientes.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormMisPacientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:36:16.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormRegistroPersonal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistroPersonal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistroPersonal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistroPersonal.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistroPersonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:36:39.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormRegistrosMedicosHospital.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrosMedicosHospital.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistrosMedicosHospital.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrosMedicosHospital.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistrosMedicosHospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:37:04.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormRegistrosMedicosHospital.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrosMedicosHospital.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistrosMedicosHospital.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrosMedicosHospital.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistrosMedicosHospital.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:36:58.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormValidarDiagnosticos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormValidarDiagnosticos.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormValidarDiagnosticos.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormValidarDiagnosticos.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormValidarDiagnosticos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:32:28.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormPrincipal.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:30:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormMisPacientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMisPacientes.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMisPacientes.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMisPacientes.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormMisPacientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:36:15.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormRegistrosMedicosHospital.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrosMedicosHospital.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistrosMedicosHospital.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrosMedicosHospital.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistrosMedicosHospital.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:31:54.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormMisPacientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMisPacientes.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMisPacientes.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMisPacientes.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormMisPacientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:32:38.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormMenuPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuPaciente.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuPaciente.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuPaciente.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuPaciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:06:17.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormRegistroPersonal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistroPersonal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistroPersonal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistroPersonal.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistroPersonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:31:12.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormMenuMedico.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuMedico.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuMedico.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuMedico.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuMedico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:14:51.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormMenuAdministrador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuAdministrador.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuAdministrador.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuAdministrador.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuAdministrador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:26:37.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormLoginPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormLoginPaciente.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormLoginPaciente.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormLoginPaciente.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormLoginPaciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:14:07.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormDiagnostico.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormDiagnostico.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormDiagnostico.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormDiagnostico.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormDiagnostico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:33:59.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormGestionPersonal.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormGestionPersonal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormGestionPersonal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormGestionPersonal.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormGestionPersonal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:34:36.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormHistorialPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormHistorialPaciente.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormHistorialPaciente.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormHistorialPaciente.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormHistorialPaciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:25:06.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormIngresarSintomas.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormIngresarSintomas.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormIngresarSintomas.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormIngresarSintomas.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormIngresarSintomas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:24:31.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormGestionPersonal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormGestionPersonal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormGestionPersonal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormGestionPersonal.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormGestionPersonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:34:30.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormCompararHospitales.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCompararHospitales.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCompararHospitales.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCompararHospitales.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormCompararHospitales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:33:47.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormColaPacientes.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormColaPacientes.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormColaPacientes.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormColaPacientes.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormColaPacientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:33:31.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormAtenderPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormAtenderPaciente.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormAtenderPaciente.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormAtenderPaciente.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormAtenderPaciente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:32:47.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormAtenderPaciente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormAtenderPaciente.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormAtenderPaciente.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormAtenderPaciente.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormAtenderPaciente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:32:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormGestionPersonal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormGestionPersonal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormGestionPersonal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormGestionPersonal.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormGestionPersonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:31:41.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FormAtenderPaciente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormAtenderPaciente.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormAtenderPaciente.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormAtenderPaciente.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormAtenderPaciente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:32:18.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormActualizarDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormActualizarDatos.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormActualizarDatos.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormActualizarDatos.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormActualizarDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:59:25.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormCambiarPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPassword.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCambiarPassword.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPassword.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormCambiarPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:12:17.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormCambiarPasswordPersonal.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPasswordPersonal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCambiarPasswordPersonal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPasswordPersonal.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormCambiarPasswordPersonal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:09:34.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormAtenderPaciente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormAtenderPaciente.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormAtenderPaciente.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormAtenderPaciente.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormAtenderPaciente.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:56:41.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:30:54.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:25:55.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormIngresarSintomas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormIngresarSintomas.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormIngresarSintomas.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormIngresarSintomas.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormIngresarSintomas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:24:25.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FormSeleccionarHospital.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormSeleccionarHospital.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormSeleccionarHospital.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormSeleccionarHospital.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormSeleccionarHospital.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:23:51.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FormMenuPaciente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuPaciente.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuPaciente.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuPaciente.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuPaciente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:58:10.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormIngresarSintomas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormIngresarSintomas.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormIngresarSintomas.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormIngresarSintomas.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormIngresarSintomas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:29:39.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FormIngresarSintomas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormIngresarSintomas.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormIngresarSintomas.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormIngresarSintomas.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormIngresarSintomas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:11.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FormSeleccionarHospital.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormSeleccionarHospital.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormSeleccionarHospital.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormSeleccionarHospital.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormSeleccionarHospital.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:29:28.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FormMenuPaciente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuPaciente.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuPaciente.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuPaciente.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuPaciente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:26:27.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FormMenuMedico.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuMedico.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuMedico.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuMedico.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuMedico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:57:57.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FormCambiarPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPassword.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCambiarPassword.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPassword.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormCambiarPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:12:13.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FormMenuMedico.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuMedico.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuMedico.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuMedico.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuMedico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:26:47.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FormCambiarPasswordPersonal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPasswordPersonal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCambiarPasswordPersonal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPasswordPersonal.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormCambiarPasswordPersonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:09:30.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FormCambiarPasswordPersonal.resx",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPasswordPersonal.resx",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCambiarPasswordPersonal.resx",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPasswordPersonal.resx",
+              "RelativeToolTip": "WC_MediCenter\\FormCambiarPasswordPersonal.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-27T01:10:50.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FormCambiarPassword.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPassword.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCambiarPassword.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPassword.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormCambiarPassword.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:56:44.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FormCambiarPasswordPersonal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPasswordPersonal.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCambiarPasswordPersonal.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPasswordPersonal.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormCambiarPasswordPersonal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:31:02.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FormCambiarPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPassword.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCambiarPassword.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPassword.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormCambiarPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:30:49.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FormValidarDiagnosticos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormValidarDiagnosticos.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormValidarDiagnosticos.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormValidarDiagnosticos.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormValidarDiagnosticos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:40.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FormCambiarPasswordPersonal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPasswordPersonal.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCambiarPasswordPersonal.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCambiarPasswordPersonal.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormCambiarPasswordPersonal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:56:49.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FormSeleccionarHospital.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormSeleccionarHospital.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormSeleccionarHospital.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormSeleccionarHospital.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormSeleccionarHospital.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:37.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FormRegistrosMedicosHospital.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrosMedicosHospital.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistrosMedicosHospital.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistrosMedicosHospital.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistrosMedicosHospital.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:35.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FormColaPacientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormColaPacientes.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormColaPacientes.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormColaPacientes.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormColaPacientes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:56:53.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FormRegistroPersonal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistroPersonal.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormRegistroPersonal.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormRegistroPersonal.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormRegistroPersonal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:32.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormPrincipal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:29.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FormMisPacientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMisPacientes.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMisPacientes.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMisPacientes.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormMisPacientes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:26.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "FormMenuPaciente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuPaciente.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuPaciente.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuPaciente.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuPaciente.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:24.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "FormMenuMedico.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuMedico.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuMedico.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuMedico.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuMedico.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:22.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "FormLoginPersonal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormLoginPersonal.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormLoginPersonal.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormLoginPersonal.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormLoginPersonal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:16.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FormMenuAdministrador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuAdministrador.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormMenuAdministrador.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormMenuAdministrador.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormMenuAdministrador.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:19.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "FormLoginPaciente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormLoginPaciente.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormLoginPaciente.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormLoginPaciente.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormLoginPaciente.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:13.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FormHistorialPaciente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormHistorialPaciente.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormHistorialPaciente.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormHistorialPaciente.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormHistorialPaciente.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:07.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "FormGestionPersonal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormGestionPersonal.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormGestionPersonal.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormGestionPersonal.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormGestionPersonal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:02.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "FormDiagnostico.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormDiagnostico.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormDiagnostico.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormDiagnostico.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormDiagnostico.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:57:00.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "FormCompararHospitales.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCompararHospitales.Designer.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormCompararHospitales.Designer.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormCompararHospitales.Designer.cs",
+              "RelativeToolTip": "WC_MediCenter\\FormCompararHospitales.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:56:56.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "FormColaPacientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormColaPacientes.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormColaPacientes.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormColaPacientes.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormColaPacientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:59:41.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "FormColaPacientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormColaPacientes.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormColaPacientes.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormColaPacientes.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormColaPacientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:32:07.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "FormActualizarDatos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormActualizarDatos.cs",
+              "RelativeDocumentMoniker": "WC_MediCenter\\FormActualizarDatos.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\WC_MediCenter\\WC_MediCenter\\FormActualizarDatos.cs [Design]",
+              "RelativeToolTip": "WC_MediCenter\\FormActualizarDatos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:30:21.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

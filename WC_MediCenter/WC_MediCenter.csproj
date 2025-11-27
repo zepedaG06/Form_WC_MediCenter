@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Casa\OneDrive\Desktop\MediCenter_WC_version.cs" Link="MediCenter_WC_version.cs" />
+    <Compile Include="C:\Users\Casa\OneDrive\Desktop\WC_Form\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
